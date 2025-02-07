@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\bin\Debug\net8.0\FindigYigimi.exe
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\bin\Debug\net8.0\FindigYigimi.deps.json
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\bin\Debug\net8.0\FindigYigimi.runtimeconfig.json
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\bin\Debug\net8.0\FindigYigimi.dll
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\bin\Debug\net8.0\FindigYigimi.pdb
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\FindigYigimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\FindigYigimi.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\FindigYigimi.AssemblyInfo.cs
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\FindigYigimi.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\FindigYigimi.dll
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\refint\FindigYigimi.dll
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\FindigYigimi.pdb
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\FindigYigimi.genruntimeconfig.cache
+C:\Users\elsad\source\repos\FindigYigimi\FindigYigimi\obj\Debug\net8.0\ref\FindigYigimi.dll
