@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\ShootingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\ShootingGame.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\ShootingGame.AssemblyInfo.cs
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\ShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0\ShootingGame.exe
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0\ShootingGame.deps.json
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0\ShootingGame.runtimeconfig.json
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0\ShootingGame.dll
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0\ShootingGame.pdb
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\ShootingGame.dll
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\refint\ShootingGame.dll
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\ShootingGame.pdb
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\ShootingGame.genruntimeconfig.cache
+C:\Users\elsad\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0\ref\ShootingGame.dll
